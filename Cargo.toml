@@ -1,5 +1,5 @@
 [package]
-name = "disassemler-8080"
+name = "intel-8080-disassembler"
 version = "0.1.0"
 edition = "2021"
 
